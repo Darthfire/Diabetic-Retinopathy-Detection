@@ -1,7 +1,14 @@
-# 👁 Diabetic-Retinopathy-Detection 
+# 👁 Diabetic-Retinopathy-Detection
+
+![DR](https://media.discordapp.net/attachments/891317274936483871/1088950357062844606/WADER_diagrams-Page-8.drawio.png?width=2688&height=934)
+
+## ⚙️ Model
 The model employs a deep learning approach to detect Diabetic Retinopathy. It uses the RESNET architecture pre-trained on the ImageNet dataset and fine-tunes the last layers with a custom CNN architecture to achieve high accuracy. Additionally, to address the problem of class imbalance, the model applies class weights and data augmentation techniques to increase the dataset's diversity and size. The model is evaluated over 10 runs, and the resulting metrics indicate its effectiveness in identifying Diabetic Retinopathy cases.
-## Problem Statement
+## 🏥 Problem Statement
 Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which causes lesions on the retina that effect vision. If it is not detected early, it can lead to blindness. Unfortunately, DR is not a reversible process, and treatment only sustains vision. DR early detection and treatment can significantly reduce the risk of vision loss. The manual diagnosis process of DR retina fundus images by ophthalmologists is time-, effort-, and cost-consuming and prone to misdiagnosis unlike computer-aided diagnosis systems. 
+
+![TYPES](https://media.discordapp.net/attachments/891317274936483871/1088952522275827782/1-s2.png?width=1160&height=626)
+Fig. The DR stages: (a) normal retinal (b) Mild DR, (c) Moderate DR, (d) Severe DR, (e) Proliferative DR,(f) Macular edema
 
 | DR Severity Level              | Lesions                                                                                     |
 |--------------------------------|---------------------------------------------------------------------------------------------|
