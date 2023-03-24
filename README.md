@@ -19,7 +19,7 @@ Fig. The DR stages: (a) normal retinal (b) Mild DR, (c) Moderate DR, (d) Severe 
 | Severe non-proliferative DR    | Any of the following: <br> &nbsp;&nbsp;&nbsp;&nbsp;• more than 20 intraretinal HM in each of 4 quadrants <br> &nbsp;&nbsp;&nbsp;&nbsp;• definite venous beading in 2+ quadrants <br> &nbsp;&nbsp;&nbsp;&nbsp;• prominent intraretinal microvascular abnormalities in 1+ quadrant <br> &nbsp;&nbsp;&nbsp;&nbsp;• no signs of proliferative DR |
 | Proliferative DR               | One or more of the following: vitreous/pre-retinal HM, neovascularization                 |
 
-# 🏎 Performance
+## 🏎 Performance
 
 | Metric      | Value    |
 |-------------|----------|
