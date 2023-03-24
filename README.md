@@ -8,6 +8,7 @@ The model employs a deep learning approach to detect Diabetic Retinopathy. It us
 Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which causes lesions on the retina that effect vision. If it is not detected early, it can lead to blindness. Unfortunately, DR is not a reversible process, and treatment only sustains vision. DR early detection and treatment can significantly reduce the risk of vision loss. The manual diagnosis process of DR retina fundus images by ophthalmologists is time-, effort-, and cost-consuming and prone to misdiagnosis unlike computer-aided diagnosis systems. 
 
 ![TYPES](https://media.discordapp.net/attachments/891317274936483871/1088952522275827782/1-s2.png?width=1160&height=626)
+
 Fig. The DR stages: (a) normal retinal (b) Mild DR, (c) Moderate DR, (d) Severe DR, (e) Proliferative DR,(f) Macular edema
 
 | DR Severity Level              | Lesions                                                                                     |
